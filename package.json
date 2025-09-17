@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-   "homepage": "https://Nikhilsharma00101.github.io/shoppingreact",
+  "homepage": "https://Nikhilsharma00101.github.io/shoppingreact",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
