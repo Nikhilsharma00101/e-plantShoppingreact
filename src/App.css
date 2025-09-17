@@ -33,11 +33,11 @@
  top: 100px;
   backdrop-filter: blur(4px);
   background-color: rgba(0,0,0,0.5);
-  gap: 20px;
 }
 
 .landing_content {
  margin-top: 430px;
+ padding-left: 100px;
   margin-left: 100px;
   transform: translate(-50%, -50%);
   z-index: 1;
